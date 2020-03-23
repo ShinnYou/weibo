@@ -6,6 +6,7 @@
         "framework",
         "laravel"
     ],
+    "symfony/translation": "4.3.8",
     "license": "MIT",
     "require": {
         "php": "^7.1.3",
